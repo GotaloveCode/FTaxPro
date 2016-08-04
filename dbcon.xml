@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--To Store Database Confgs-->
+<?ConnDB Configurations?>
+<DatabaseConnection>
+  <!--The Server Name-->
+  <ServerName>FAVOTECH1-PC\SQLEXPRESS</ServerName>
+  <!--The database-->
+  <DatabaseName>Delaru</DatabaseName>
+  <!--either 0 or 1 -->
+  <!--1 is used if the program should use windows authentication (trusted connection)-->
+  <!--0 is when using untrusted connections-->
+  <WinAuth>0</WinAuth>
+  <!--the db username for untrusted connections-->
+  <UserID>sa</UserID>
+  <!--The db User password-->
+  <Password>ftl2014</Password>
+  </DatabaseConnection>
